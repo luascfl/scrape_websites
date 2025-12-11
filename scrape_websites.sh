@@ -2,12 +2,15 @@
 
 # --- CONFIGURAÇÃO ---
 ALVOS=(
+    "ajuda.cheers.com.br/pt-BR/articles"
+    "https://blog.cheers.com.br"
     "https://docs.apollo.io"
     "https://teya.us"
     "https://novi.cc"
     "https://targetteal.com"
     "https://hyperisland.com.br"
     "https://toolboxtoolbox.com"
+    "https://fastercapital.com/pt"
 )
 # --------------------
 
